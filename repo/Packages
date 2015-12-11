@@ -1,0 +1,21 @@
+Package: com.myrepospace.enderapps.shaders_Beta1.0_iphoneos-arm
+
+Version: 1.0
+
+Architecture: iphoneos-arm
+
+Maintainer: Enderapps <enderappsrepo@gmail.com>
+
+Depends: winterboard
+
+Filename: debs//com.myrepospace.enderapps.shaders_Beta1.0_iphoneos-arm.deb
+
+Size: 8
+
+Section: Minecraft
+
+Description: Adds Shaders To MCPE 0.11.0
+
+Author: Ryan Smith <enderappsrepo@gmail.com>
+
+Name: MCPE Shaders Mod
