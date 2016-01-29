@@ -1,8 +1,8 @@
-Origin: DevNati0n's Repo
-Label: DevNati0n's Repo
+Origin: DevNati0n's official Cydia repo!
+Label: DevNati0n
 Suite: stable
 Version: 1.0
-Codename: DevNati0n
+Codename: stable
 Architectures: iphoneos-arm
 Components: main
-Description: DevNati0n Official Repo
+Description: Welcome to DevNati0n's repo, where all jailbroken stuff made by DevNati0n members lives. Repo maintained by JJGadgets (@jiajianng). Have fun! Also, if anything goes wrong, contact @DevNati0n. Thanks!
